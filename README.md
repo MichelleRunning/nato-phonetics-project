@@ -6,7 +6,7 @@ This Python program converts a word entered by the user into its **NATO phonetic
 
 ## Output Screenshot
 
-![NATO Phonetic Alphabet Program Output](output-screenshot.jpg)
+![NATO Phonetic Alphabet Program Output](screenshot-output.jpg)
 
 ---
 
